@@ -1,5 +1,11 @@
 # JAVISSSSSS
 
+def comprueba (X,L):
+  if x in L:
+    return false
+  else:
+    return true 
+  
 def genera ():
   l=range [1,42]
   mi_lista=[]
